@@ -10,8 +10,7 @@
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloricardoodev-dotcom&show_icons=true&theme=tokyonight)
 
 <div style="display: inline-block"><br>
-  ## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d701e12a-972b-4258-a43f-994bbfa127a9" />
- Tecnologias
+  ##Tecnologias
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" />
