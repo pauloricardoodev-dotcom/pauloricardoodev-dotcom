@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:5C0000,100:E10600&height=200&section=header&text=Paulo%20Ricardo&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=%3C%2F%3E%20Front-End%20Developer%20%C2%B7%20Eng.%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=560&lines=Front-End+com+React+%2B+Tailwind;Back-End+com+NestJS+%2B+PostgreSQL;Game+dev+com+Unity+%2B+C%23;Resolvendo+bugs+como+cubos+m%C3%A1gicos+%F0%9F%A7%A9" alt="Typing SVG" />
@@ -14,7 +11,6 @@
   <a href="https://github.com/pauloricardoodev-dotcom">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E10600" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pauloricardoodev-dotcom&style=for-the-badge&color=E10600&label=VISITAS" />
 </p>
 
 ---
