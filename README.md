@@ -1,4 +1,7 @@
 <!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,40:5C0000,100:000000&height=120&section=footer" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=560&lines=Front-End+com+React+%2B+Tailwind;Back-End+com+NestJS+%2B+PostgreSQL;Game+dev+com+Unity+%2B+C%23;Resolvendo+bugs+como+cubos+m%C3%A1gicos+%F0%9F%A7%A9" alt="Typing SVG" />
