@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-ricardo-rinaldi-da-silva">
+ <a href="https://www.linkedin.com/in/paulo-ricardo-rinaldi-da-silva">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E10600" />
   </a>
   <a href="https://github.com/pauloricardoodev-dotcom">
